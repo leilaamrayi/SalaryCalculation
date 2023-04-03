@@ -1,0 +1,13 @@
+{
+    "age": [35],
+    "education-num": [8],
+    "marital-status": [0],
+    "occupation": [1],
+    "relationship": [1],
+    "race": [0],
+    "sex": [1],
+    "capital-gain": [250],
+    "capital-loss": [10],
+    "hours-per-week": [40],
+    "native-country": [4]
+  }
